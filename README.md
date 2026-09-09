@@ -67,6 +67,7 @@
    - **Problem Solved:** Resolves team arguments over formatting styles and prevents readable code degradation caused by inconsistent developer habits.
 
 6. **Linter / Static Analyzer**
+
    - **Role:** Inspects code structure statically against best-practice rules and potential defect patterns.
    - **Problem Solved:** Identifies subtle vulnerabilities, dead code, uninitialized variables, and type conversion defects before code is compiled or deployed.
 
