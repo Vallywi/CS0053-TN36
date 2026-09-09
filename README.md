@@ -3,12 +3,23 @@
 **Student Name:** Jecyn Vallirie M. Turbanos  
 **Section / Schedule:** CS0053-TN36  
 **Date:** September 9, 2026  
-
 **Course:** Programming Tools and Techniques  
 **Laboratory Title:** Exploring Software Development Tools and Standards with AI Assistance  
 **Language Environment:** C++ (GCC 13.2 / MinGW-w64, Visual Studio Code)  
 **Version Control System:** Git 2.4x  
 **Duration:** 1–2 hours  
+
+---
+
+## 📂 Laboratory Repository Contents
+
+| File | Description |
+| :--- | :--- |
+| 📄 **[LAB_ACTIVITY_REPORT.md](LAB_ACTIVITY_REPORT.md)** | Full Laboratory Activity Report covering Parts A through J. |
+| 💻 **[sample_program.cpp](sample_program.cpp)** | Original sample C++ program exhibiting coding flaws and unformatted structure. |
+| ✨ **[improved_program.cpp](improved_program.cpp)** | Refactored, standard-compliant C++ program (`std::vector`, `<numeric>`, `constexpr`, docblocks). |
+| 🐛 **[buggy_program.cpp](buggy_program.cpp)** | Version containing an intentional off-by-one vector loop error for Part H debugging. |
+| 📘 **[mini_coding_standard.md](mini_coding_standard.md)** | Standalone student Software Development Standard guide covering 10 key categories. |
 
 ---
 
